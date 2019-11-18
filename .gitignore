@@ -5,3 +5,6 @@
 *.~h
 *.~dfm
 *.ddp
+*.res
+*.bpr
+*.dfm
